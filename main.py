@@ -3,7 +3,6 @@ import requests
 from menu import Menu
 from PIL import Image
 from io import BytesIO
-import datetime
 
 ses = requests.session()
 
